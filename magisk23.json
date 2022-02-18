@@ -12,4 +12,11 @@
     "note": "https://forum.xda-developers.com/",
     "md5": "ea450d98c25b4e09bb353e5bef8ca8a0"
   },
+  "uninstaller": {
+    "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/Magisk-uninstaller-v19.5-2019092201-ianmacd.zip"
+  },
+  "snet": {
+    "versionCode": "13",
+    "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/snet.apk"
+  }
 }
