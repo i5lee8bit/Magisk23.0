@@ -1,12 +1,12 @@
 {
   "magisk": {
     "version": "23.0",
-    "versionCode": "23000 (20)",
+    "versionCode": "23000",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v23.0/Magisk-v23.0.apk",
     "note": "https://forum.xda-developers.com/",
     "md5": "ea450d98c25b4e09bb353e5bef8ca8a0"
   },
-  "stub": {
+  "stub-release": {
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v23.0/stub-release.apk"
   },
   "snet": {
