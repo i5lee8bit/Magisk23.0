@@ -1,10 +1,4 @@
 {
-  "app": {
-    "version": "23.0",
-    "versionCode": "23000",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v23.0/Magisk-v23.0.apk",
-    "note": ""
-  },
   "magisk": {
     "version": "23.0",
     "versionCode": "23000",
@@ -16,7 +10,7 @@
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v23.0/stub-release.apk"
   },
   "snet": {
-    "versionCode": "21",
+    "versionCode": "23",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v23.0/snet.jar"
   }
 }
